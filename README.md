@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+>This is a ROR application
+
+###Features
+
+- Real practice of markdown
+
+```ruby
+def hey
+	puts "hey"
+end
+```
