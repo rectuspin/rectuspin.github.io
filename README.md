@@ -25,7 +25,7 @@ Things you may want to cover:
 
 >This is a ROR application
 
-###Features
+#Features
 
 - Real practice of markdown
 
