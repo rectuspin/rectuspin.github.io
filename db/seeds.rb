@@ -35,4 +35,4 @@ puts "5 skill posts created"
 		)
 end
 
-puts "9 portfolio posts created"
+puts "9 portfolio posts created"hello
